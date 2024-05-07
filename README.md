@@ -78,17 +78,24 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <br/>
-    
+
+
+   
 <!--나의 깃 상태-->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun7&layout=donut&show_icons=true&theme=discord_old_blurple&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
-
+-->
 
 <!-- GITHUB STATS -->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=gaeun7&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a> 
+-->
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun7&theme=transparent)
 

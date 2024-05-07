@@ -97,11 +97,9 @@
 
 <!--
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaeun7&theme=transparent" width=38% />
--->
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun7&theme=transparent" width=25% />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaeun7&theme=transparent" width=60% />
-
+-->
 
 <br/>
 

@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a>
 
 <br/>
+<br/>
 
 <!--그래프-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -70,7 +71,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-<br/>
 <br/>
     
 <!--나의 깃 상태-->

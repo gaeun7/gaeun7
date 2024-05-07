@@ -2,6 +2,8 @@
 <!-- 헤더 부분 wave
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 -->
+
+<div align="center">
     
 <!--달--> 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2024-07-07&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
@@ -11,7 +13,7 @@
 <!--연속 커밋 수-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=gaeun7&theme=tokyonight)](https://git.io/streak-stats)
 
-<div align="center">
+
 
 ### Studying
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">

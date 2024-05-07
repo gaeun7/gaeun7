@@ -106,7 +106,7 @@
 <br/>
 
 <!--3d 잔디-->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <br/>
 

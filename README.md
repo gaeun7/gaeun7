@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
-### 🔍 Follow Me 🔍
+### 🔍 About Me 🔍
 <a href="https://velog.io/@litlight/posts">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a>
 

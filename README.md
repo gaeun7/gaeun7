@@ -12,6 +12,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaeun7&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&them=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&them=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaeun7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

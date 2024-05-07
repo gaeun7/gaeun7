@@ -18,7 +18,9 @@
 </a>
 
 <div align="right">
+    
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+    
 </div>
 
 <!-- GITHUB STATS -->

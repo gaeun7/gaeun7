@@ -13,6 +13,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=tokyo-night&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎐🎐🎐&fontAlign=70)

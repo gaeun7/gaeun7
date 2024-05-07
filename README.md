@@ -2,7 +2,6 @@
 <!-- 헤더 부분 wave
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 -->
-<div align="center">
     
 <!--달--> 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2024-07-07&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
@@ -25,10 +24,6 @@
 <a href="https://velog.io/@litlight/posts">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a>
 
-</div>
-
-<br/>
-<br/>
 <br/>
 
 <!--그래프-->
@@ -73,7 +68,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-
+<br/>
+<br/>
     
 <!--나의 깃 상태-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -87,9 +83,10 @@
 
 <br/>
 
-
 <!--3d 잔디-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br/>
 
 <!--푸터-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎐🎐🎐&fontAlign=70)

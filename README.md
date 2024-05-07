@@ -10,7 +10,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaeun7&count_bg=%23D2B0FF&title_bg=%2393ADFF&icon=datadog.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/gaeun7)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gaeun7&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeun7&layout=donut&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -23,5 +23,5 @@
 </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎐🎐🎐&fontAlign=70)

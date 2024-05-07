@@ -35,8 +35,6 @@
 </div>
 
 <br/>
-<br/>
-<br/>
 
 ## Have used | Frontend
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>

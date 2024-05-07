@@ -5,7 +5,7 @@
 <div align="center">
     
 <!--달--> 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2024-07-07&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
 <!--방문자 수-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaeun7&count_bg=%23D2B0FF&title_bg=%2393ADFF&icon=datadog.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/gaeun7)

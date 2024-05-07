@@ -60,8 +60,7 @@
 ### 🗃️ Have used | Framework 🗃️
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
-<img src="https://img.shields.io/badge/WordPress-23117AC9?style=flat-square&logo=WordPress&logoColor=white"/> 
+<img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat-square&logo=WordPress&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
 
 ### 🛠️ Have used | Development Tools 🛠️

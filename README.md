@@ -61,14 +61,8 @@
 ## Have used | Development Tools
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) 
-
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=flat-square&logo=Eclipse&logoColor=white"/> 
-
-![IntelliJ IDEA](https://img.shields.io/badge/.svg?style=flat-square&logo=intellij-idea&logoColor=white) 
-
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logoIntelliJIDEA&logoColor=white"/> 
-
 <img src="https://img.shields.io/badge/sublime_text-%23575757?style=flat-square&logo=sublime-text&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 

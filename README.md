@@ -19,7 +19,7 @@
 </a>
 
 
-<div align="center">
+<div align="left">
 
 ### Studying
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -33,6 +33,13 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a>
 
 </div>
+
+<br/>
+
+<!--그래프-->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=tokyo-night&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 <br/>
 
@@ -77,12 +84,7 @@
 </a>  -->
 
 <br/>
-<br/>
 
-<!--그래프-->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=tokyo-night&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
 <!--3d 잔디-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

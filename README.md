@@ -90,7 +90,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gaeun7&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaeun7&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaeun7&theme=transparent" width=38% />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaeun7&theme=transparent" width=56% />
 
 
 <br/>

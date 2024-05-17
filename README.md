@@ -26,8 +26,7 @@
 <a href="https://velog.io/@litlight/posts">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> </a>
 <a href="https://litlight.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=black">
-</a>
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" /> </a>
 
 <br/>
 <br/>

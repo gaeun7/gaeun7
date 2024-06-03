@@ -33,7 +33,7 @@
 
 <!--그래프-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=tokyo-night&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=minimal&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
 <br/>

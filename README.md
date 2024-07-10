@@ -33,10 +33,10 @@
 
 <!--그래프-->
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=minimal&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=github-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaeun7&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -111,8 +111,8 @@
 
 <!--3d 잔디 (https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd) -->
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
-![](./profile-3d-contrib/profile-gitblock.svg)
-<!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
+<!--![](./profile-3d-contrib/profile-gitblock.svg)-->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--![](./profile-3d-contrib/profile-south-season-animate.svg)-->
 
 <br/>
